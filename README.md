@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saarthak Chawla
 - 👀 I’m interested in Data Engineering
-- 📫 Connect with me - saarthak.work@gmail.com
+- 📫 Connect with me - saarthak.work@gmail.com or Telegram @saarthakchawla
 
 <!---
 saarthakchawla/saarthakchawla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
