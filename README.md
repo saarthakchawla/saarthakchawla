@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saarthak Chawla
-- 👀 I’m interested in Data Engineering
+- 👀 I’m a Computer Science Undergraduate
 - 📫 Connect with me - saarthak.work@gmail.com or Telegram @saarthakchawla
 
 <!---
